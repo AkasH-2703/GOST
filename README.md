@@ -1,4 +1,4 @@
 # GOST
-this is my first git program
+this is my first git Repository
 <br>
 author-akash
